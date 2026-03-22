@@ -13,7 +13,12 @@ This project analyzes telecom customer churn using Python.
 - Churn Rate Analysis
 - Customer Behavior Insights
 
-## Key Insights
-- Month-to-month contracts have highest churn
-- Customers with short tenure churn more
-- Higher monthly charges increase churn probability
+## Key Steps
+- Data Cleaning
+- EDA (Exploratory Data Analysis)
+- Correlation Analysis
+- Predictive Modeling (Logistic Regression)
+
+## Results
+- Identified key factors affecting churn
+- Built a prediction model with good accuracy
